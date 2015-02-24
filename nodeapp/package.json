@@ -1,0 +1,13 @@
+{
+  "name": "HighTrustedApp",
+  "version": "1.0.0",
+  "description": "HighTrustedApp demo ewus.de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Wegner <erik.wegner@ewus.de>",
+  "dependencies": {
+    "jws": "^2.0.0"
+  }
+}
